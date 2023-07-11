@@ -33,6 +33,30 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <h2>Actions and Observations</h2>
 
 <p>
+<img src="https://i.imgur.com/JsBQeIT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+After setting up both my virtual Windows 10 & Ubuntu (Linux) machines, I installed Wireshark, a traffic protocol analyzer on my virtual Windows 10 machine. Here you can see internet traffic being sent back and forth randomly in the background.
+</p>
+<br/>
+
+<p>
+<img src="https://i.imgur.com/RsUFpEY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Here i entered a filter for ICMP (Internet Control Message Protocol). As you can see there is no ICMP traffic at this time.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DsWKXaa.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Here i sent a ping request to the virtual Linux computer and now we have ICMP traffic.
+</p>
+<br />
+
+<p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
