@@ -21,10 +21,10 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 <h2>High-Level Steps</h2>
 
-- Step 1
-- Step 2
-- Step 3
-- Step 4
+- Setup of virtual machines in Azure
+- Using Wireshark to demonstrate how traffic is filtered
+- Manipulating inbound access & ping results
+- Logging into another computer using ssh protocol
 
 <h2>Actions and Observations</h2>
 
