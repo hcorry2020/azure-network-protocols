@@ -96,3 +96,14 @@ Here i decided to filter DHCP traffic in Wireshark so i executed command ipconfi
 </p>
 <br />
 
+<p>
+<img src="https://i.imgur.com/w8ukSNp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Here i decided to filter RDP (Remote Desktop Protocol) traffic in Wireshark. The feed in Wireshark is non-stop because one computer is always talking to the other and vice-versa.
+</p>
+<br />
+
+
+
+
