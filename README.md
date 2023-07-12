@@ -87,3 +87,12 @@ As you can see, ICMP trafic has been rejected by the Linux computer.
 Here i decided to filter SSH traffic in Wireshark so i logged into the Linux computer from the Windows computer via Powershell. Once i was able to login you can see the SSH traffic in Wireshark.
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/zYw8p6y.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Here i decided to filter DHCP traffic in Wireshark so i executed command ipconfig /renew and Wireshark picked up the DHCP traffic.
+</p>
+<br />
+
